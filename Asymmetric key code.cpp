@@ -1,8 +1,6 @@
 #include<iostream>
 #include<math.h>
- 
 using namespace std;
- 
 int gcd(int a, int h)
 {
     int temp;
